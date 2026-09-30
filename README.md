@@ -69,6 +69,6 @@ It also stores packet information in `packets.csv`.
 
 ## Author
 
-Pampari Nandini
+Pittala SaiPavan
 
 CodeAlpha Cyber Security Internship Project
